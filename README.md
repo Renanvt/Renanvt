@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Olá! Eu sou o Jonatan Renan
+### Olá! Eu sou o Jonatan Renan 👋
 - 🔭 Procuro ingressar na área de desenvolvimento web
 - 🌱 Estudando PHP
 - 📨 jonatan_rvs@hotmail.com
