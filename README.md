@@ -14,8 +14,8 @@
 -->
 
 ### Olá! Eu sou o Jonatan Renan 👋
-- 🔭 Procuro ingressar na área de desenvolvimento web
-- 🌱 Estudando PHP
+- 🔭 Procuro ingressar na área de Desenvolvimento Web e Design Gráfico
+- 🌱 Estudando Design Gráfico
 - 📨 jonatan_rvs@hotmail.com
 - 🤔 Pronouns: ele/dele
 
