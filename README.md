@@ -13,11 +13,9 @@
 - ⚡ Fun fact: ...
 -->
 
-### Olá! Eu sou o Jonatan Renan 👋
-- 🔭 Procuro ingressar na área de Desenvolvimento Web e Design Gráfico
-- 🌱 Estudando Design Gráfico
-- 📨 jonatan_rvs@hotmail.com
-- 🤔 Pronouns: ele/dele
+## Olá! Eu sou o Jonatan Renan 👋
+Sou um Desenvolvedor Frontend, ligeiramente apaixonado por jogos 🎮, teorias da conspiração 🪐 e tecnologia no geral 🖥️.
+Aplico constantemente meu tempo em estudar e me desenvolver na área de programação e design gráfico, em especial em HTML, CSS, JavaScript e criação de Identidade Visual.
 
  <div>
   <a href="https://github.com/Renanvt">
