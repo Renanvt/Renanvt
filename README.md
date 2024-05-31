@@ -35,7 +35,7 @@ Mas também já tive contato com algumas ferramentas de design:
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,blender,&theme=light)](https://skillicons.dev)
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanvt&theme=blue-green"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanvt&theme=blue-green"/>
 </div>
 
  <div>
