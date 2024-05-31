@@ -35,19 +35,14 @@ Mas também já tive contato com algumas ferramentas de design:
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,blender,&theme=light)](https://skillicons.dev)
 
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanvt&theme=blue-green"/>
+<img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanvt&theme=dracula&locale=pt-br&hide_border=true&border_radius=10.5"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Renanvt&theme=dracula&hide_border=true&border_radius=10.5&locale=pt_BR&exclude_days=Sun)](https://git.io/streak-stats)
+
 </div>
 
- <div>
-  <a href="https://github.com/Renanvt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renanvt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanvt&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
 
-  
-  ##
-  
+##
 <div> 
   
   <a href="https://instagram.com/jhowrenan2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
