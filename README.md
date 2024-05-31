@@ -24,7 +24,7 @@ Aplico constantemente meu tempo em estudar e me desenvolver na área de programa
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,java,php,regex,bash,git,mysql,postgres,heroku,netlify,npm,linux,vscode,visualstudio,notion,postman&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ae,pr,au,blender,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,blender,&theme=light)](https://skillicons.dev)
 
 
  <div>
