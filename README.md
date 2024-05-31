@@ -26,11 +26,11 @@
 
 # Olá! Eu sou o Jonatan Renan 👋
 Sou um Desenvolvedor Frontend, ligeiramente apaixonado por jogos 🎮, teorias da conspiração 🪐 e tecnologia no geral 🖥️.
-Aplico constantemente meu tempo em estudar e me desenvolver na área de programação e design gráfico, em especial em HTML, CSS, JavaScript e criação de Identidade Visual.
+Aplico constantemente meu tempo em estudar e me desenvolver na área de programação em especial em HTML, CSS e JavaScript:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,java,php,regex,bash,git,mysql,postgres,heroku,npm,linux,vscode,visualstudio,notion,postman&&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,java,php,regex,bash,git,mysql,postgres,heroku,npm,linux,vscode,visualstudio,notion,postman&&perline=10&theme=dark)](https://skillicons.dev)
 
-  
+Mas também já tive contato com algumas ferramentas de design:
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,blender,&theme=light)](https://skillicons.dev)
 
 
