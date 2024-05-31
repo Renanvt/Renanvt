@@ -1,7 +1,4 @@
-
-
 <!--
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,13 +8,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-# Olá! Eu sou o Jonatan Renan 👋
-Sou um Desenvolvedor Frontend, ligeiramente apaixonado por jogos 🎮, teorias da conspiração 🪐 e tecnologia no geral 🖥️.
-Aplico constantemente meu tempo em estudar e me desenvolver na área de programação e design gráfico, em especial em HTML, CSS, JavaScript e criação de Identidade Visual.
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,bash,git,mysql,postgres,vscode,visualstudio,notion,postman)](https://skillicons.dev)
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,6 +15,16 @@ Aplico constantemente meu tempo em estudar e me desenvolver na área de programa
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+-->
+
+# Olá! Eu sou o Jonatan Renan 👋
+Sou um Desenvolvedor Frontend, ligeiramente apaixonado por jogos 🎮, teorias da conspiração 🪐 e tecnologia no geral 🖥️.
+Aplico constantemente meu tempo em estudar e me desenvolver na área de programação e design gráfico, em especial em HTML, CSS, JavaScript e criação de Identidade Visual.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,bash,git,mysql,postgres,vscode,visualstudio,notion,postman&theme=dark)](https://skillicons.dev)
+
+
 
  <div>
   <a href="https://github.com/Renanvt">
