@@ -31,6 +31,7 @@ Aplico constantemente meu tempo em estudar e me desenvolver na área de programa
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,java,php,regex,bash,git,mysql,postgres,heroku,npm,linux,vscode,visualstudio,notion,postman&&perline=10&theme=dark)](https://skillicons.dev)
 
 Mas também já tive contato com algumas ferramentas de design:
+
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,blender,&theme=light)](https://skillicons.dev)
 
 
