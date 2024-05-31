@@ -16,18 +16,19 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+
+<p align="center">
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,java,php,regex,bash,git,mysql,postgres,heroku,netlify,npm,linux,vscode,visualstudio,notion,postman&theme=dark" />
+</p>
+
 -->
 
 # Olá! Eu sou o Jonatan Renan 👋
 Sou um Desenvolvedor Frontend, ligeiramente apaixonado por jogos 🎮, teorias da conspiração 🪐 e tecnologia no geral 🖥️.
 Aplico constantemente meu tempo em estudar e me desenvolver na área de programação e design gráfico, em especial em HTML, CSS, JavaScript e criação de Identidade Visual.
 
-<p align="center">
- <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,java,php,regex,bash,git,mysql,postgres,heroku,netlify,npm,linux,vscode,visualstudio,notion,postman&theme=dark" />
-</p>
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,java,php,regex,bash,git,mysql,postgres,heroku,netlify,npm,linux,vscode,visualstudio,notion,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,java,php,regex,bash,git,mysql,postgres,heroku,npm,linux,vscode,visualstudio,notion,postman&&perline=10&theme=dark)](https://skillicons.dev)
 
   
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,blender,&theme=light)](https://skillicons.dev)
