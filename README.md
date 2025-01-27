@@ -34,12 +34,14 @@ Mas também já tive contato com algumas ferramentas de design:
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr,au,blender,&theme=light)](https://skillicons.dev)
 
+ <!--
 <div>
 <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanvt&theme=dracula&layout=compact&locale=pt-br&hide_border=true&border_radius=10.5"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Renanvt&theme=dracula&hide_border=true&border_radius=10.5&locale=pt_BR&exclude_days=Sun)](https://git.io/streak-stats)
 
 </div>
+-->
 
 
 ##
